@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @feoktistov_oleg
+- 👀 I’m interested in QA and software developing.
+- 🌱 I’m currently learning SQL.
+- 💞️ I’m looking to collaborate on intersting projects.
+- 📫 How to reach me oleg.snark@mail.ru
