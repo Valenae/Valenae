@@ -27,7 +27,9 @@ describe('Login for Timetta', () => {
           headers: {
               Authorization: "Bearer " + res.body.access_token
           }
-      })
+      }).then((res) => {
+            cy.wrap(res.body.user).its('name').should('eq', 'Петр Фадеев');
+        })
     });
   });
 });
